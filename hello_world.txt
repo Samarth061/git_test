@@ -1,1 +1,2 @@
 "Well good going so far!"
+"Now lets try git commit with vscode!"
